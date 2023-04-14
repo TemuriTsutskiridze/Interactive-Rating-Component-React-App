@@ -1,6 +1,6 @@
 # Interactive-Rating-Component
 
-## [Live URL](https::/github.com/TemuriTsutskiridze/Interactive-Rating-Component-React-App/)
+## [Live URL](https://temuritsutskiridze.github.io/Interactive-Rating-Component-React-App/)
 
 ## [Figma Design](https://www.figma.com/file/n46IN1UbRe4RRPH8NGyD4y/interactive-rating-component?node-id=0-1468&t=sZLX63LsXWB2CBYr-0)
 
