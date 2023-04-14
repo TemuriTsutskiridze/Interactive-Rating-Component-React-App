@@ -10,7 +10,7 @@ export default function Answer(props: IProps) {
     return (
         <div className='answer'>
             <img 
-                src="/images/illustration-thank-you.svg" 
+                src="./images/illustration-thank-you.svg" 
                 alt="thank you illustration" 
             />
             <div className='choice'>
