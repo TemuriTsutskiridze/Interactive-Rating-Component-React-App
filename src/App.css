@@ -1,0 +1,24 @@
+:root {
+  --dark-blue: #262E38;
+  --light-gray: #969FAD;
+  --medium-gray: #7C8798;
+  --orange: #FC7614;
+  --pure-white: #FFFFFF;
+  --very-dark-blue: #131518;
+  --black-gradient: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: var(--very-dark-blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+
+
